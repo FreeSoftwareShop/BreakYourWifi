@@ -1,4 +1,4 @@
-break_wifi = ("12345678910)
+break_wifi = ("12345678910")
 while True:
     print: (break_wifi)
     
